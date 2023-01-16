@@ -1,0 +1,17 @@
+.hoover:hover {
+    background-color: green;
+    color: white;   
+}
+
+span.frase1::before {
+    content:'Pasa por encima';
+    font-size:medium;
+}
+
+
+span.frase2::after {
+    content:'!Hecho¡';
+    font-size:medium;
+}
+
+
